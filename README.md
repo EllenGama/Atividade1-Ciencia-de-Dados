@@ -2,6 +2,8 @@
 Imagina-se que você é um dos programadores responsáveis pela construção de app de vendas para uma determinada empresa X que vende em atacado. Uma das estratégias de vendas dessa empresa X é dar desconto maiores por unidade 
 
 -------INÍCIO-------
+
+
 print('Bem vindo a loja da Ellen da Silva Gama RU4064718')
 
 valororiginal = float( input('Entre com o Valor do Produto: R$') )
